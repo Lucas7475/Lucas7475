@@ -1,7 +1,7 @@
 # Lucas Lima
 
 ### Olá pessoal 👋
-Tenho 18 anos, curso ciência da computação e gosto de resolver problemas utilizando a programação.
+Tenho 19 anos, curso ciência da computação e gosto de resolver problemas utilizando a programação.
 <br/> Sou um Desenvolvedor FullStack Jr. :computer:
 
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end ou Back-end
